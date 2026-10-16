@@ -3,7 +3,8 @@ package arraystring;
 public class HayStackNeedle {
 
 	public static void main(String[] args) {
-		String haystack = "butsadsad", needle = "sad";
+		String haystack = "butsadsad";
+		String needle = "sad";
 		int needleIndex = findNeedleInHayStack(haystack, needle);
 		System.out.println(needleIndex);
 
