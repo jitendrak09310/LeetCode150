@@ -1,5 +1,7 @@
 package linkedList;
 
+import java.util.LinkedList;
+
 import linkedList.PartitionList.ListNode;
 
 public class PartitionList {
